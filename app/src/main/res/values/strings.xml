@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidFirstApplication</string>
+    <string name="helloAndroid">Hello Android!</string>
+    <string name="imgContent">TODO</string>
+    <string name="new_layout">New Layout</string>
+</resources>
